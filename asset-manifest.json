@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hero-academia/static/css/main.ec646652.chunk.css",
+    "main.js": "/hero-academia/static/js/main.87c9a757.chunk.js",
+    "main.js.map": "/hero-academia/static/js/main.87c9a757.chunk.js.map",
+    "runtime-main.js": "/hero-academia/static/js/runtime-main.92168b92.js",
+    "runtime-main.js.map": "/hero-academia/static/js/runtime-main.92168b92.js.map",
+    "static/js/2.d7514396.chunk.js": "/hero-academia/static/js/2.d7514396.chunk.js",
+    "static/js/2.d7514396.chunk.js.map": "/hero-academia/static/js/2.d7514396.chunk.js.map",
+    "index.html": "/hero-academia/index.html",
+    "precache-manifest.8d36f65c21c585dc743014f2b398b858.js": "/hero-academia/precache-manifest.8d36f65c21c585dc743014f2b398b858.js",
+    "service-worker.js": "/hero-academia/service-worker.js",
+    "static/css/main.ec646652.chunk.css.map": "/hero-academia/static/css/main.ec646652.chunk.css.map",
+    "static/js/2.d7514396.chunk.js.LICENSE.txt": "/hero-academia/static/js/2.d7514396.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92168b92.js",
+    "static/js/2.d7514396.chunk.js",
+    "static/css/main.ec646652.chunk.css",
+    "static/js/main.87c9a757.chunk.js"
+  ]
+}
