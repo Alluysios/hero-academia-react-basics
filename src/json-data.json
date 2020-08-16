@@ -1,0 +1,44 @@
+[
+    {
+        "image": "kirishima.png",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem aliquid possimus esse pariatur officiis quasi iste dolor unde reiciendis rem? Placeat perferendis error corrupti itaque architecto et molestias animi? Commodi?",
+        "name": "Kirishima",
+        "quirk": "Harden",
+        "id": 1
+    },
+    {
+        "image": "bakugo.png",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem aliquid possimus esse pariatur officiis quasi iste dolor unde reiciendis rem? Placeat perferendis error corrupti itaque architecto et molestias animi? Commodi?",
+        "name": "Bakugo",
+        "quirk": "Explosion",
+        "id": 2
+    },
+    {
+        "image": "todoroki.png",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem aliquid possimus esse pariatur officiis quasi iste dolor unde reiciendis rem? Placeat perferendis error corrupti itaque architecto et molestias animi? Commodi?",
+        "name": "Todoroki",
+        "quirk": "Ice & Fire",
+        "id": 3
+    },
+    {
+        "image": "tenya.png",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem aliquid possimus esse pariatur officiis quasi iste dolor unde reiciendis rem? Placeat perferendis error corrupti itaque architecto et molestias animi? Commodi?",
+        "name": "Tenya",
+        "quirk": "Turbo Boost",
+        "id": 4
+    },
+    {
+        "image": "mineta.png",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem aliquid possimus esse pariatur officiis quasi iste dolor unde reiciendis rem? Placeat perferendis error corrupti itaque architecto et molestias animi? Commodi?",
+        "name": "Mineta",
+        "quirk": "Sticky",
+        "id": 5
+    },
+    {
+        "image": "uraka.png",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem aliquid possimus esse pariatur officiis quasi iste dolor unde reiciendis rem? Placeat perferendis error corrupti itaque architecto et molestias animi? Commodi?",
+        "name": "Uraraka",
+        "quirk": "Gravity",
+        "id": 6
+    }
+]
